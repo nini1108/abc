@@ -22,6 +22,7 @@ Please check the Dockerfile with the link below.<br />
 How would you make an HTTP “GET” request with the HTTP “Pragma” request header set to “no- cache”?<br />
 
 In NodeJs use <br />
-`response.setHeader("Pragma", "no-cache"); // HTTP 1.0.`
+`response.setHeader("Pragma", "no-cache"); // HTTP 1.0.`<br />
+
 As HTTP 1.1 uses 'Cache-Control' and backwards compatible with Pragma<br />
 `response.setHeader("Cache-Control", "no-cache, no-store, must-revalidate"); // HTTP 1.1.`

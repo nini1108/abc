@@ -3,7 +3,7 @@
 **Using your preferred programming or scripting language, write a function that takes a number as an argument and returns the string “aunty” if that number is divisible by 3 and returns “uncle” otherwise.**
 
 Please check the python file with the link below. <br />
-[here](./main.py)
+[python file](./main.py)
 
 ## 2. Unix/Linux
 **Write a command to send the signal SIGTERM to the “mongo” process.**<br />
@@ -16,7 +16,7 @@ Please check the python file with the link below. <br />
 **Write a Dockerfile that installs the program “curl”.**
 
 Please check the Dockerfile with the link below.<br />
-[here](./Dockerfile)
+[Dockerfile](./Dockerfile)
 
 ## 4. Web
 **How would you make an HTTP “GET” request with the HTTP “Pragma” request header set to “no- cache”?**<br />
